@@ -26,19 +26,16 @@ The model was fine-tuned using the **Databricks Dolly-15k** dataset to enhance i
 * `/data`: Includes the prompt-formatted instruction templates derived from the Dolly-15k dataset.
 * `/docs`: Contains the detailed research paper and methodology breakdown.
 
+
+## ⚖️ License & Acknowledgements
+* The code in this repository is licensed under the MIT License.
+* The Databricks Dolly-15k dataset is governed by the Apache License 2.0.
+* The Llama 2 model weights are subject to the Meta Llama 2 Community License.
+
+Developed by Himanshu Maurya
 ## 🚀 Getting Started
 
 **1. Clone the repository:**
-
-⚖️ License & Acknowledgements
-The code in this repository is licensed under the MIT License.
-
-The Databricks Dolly-15k dataset is governed by the Apache License 2.0.
-
-The Llama 2 model weights are subject to the Meta Llama 2 Community License.
-
-Developed by Himanshu Maurya
-
 ```bash
 git clone [https://github.com/yourusername/Llama2-PEFT-Instruction-Tuning.git](https://github.com/yourusername/Llama2-PEFT-Instruction-Tuning.git)
 cd Llama2-PEFT-Instruction-Tuning
